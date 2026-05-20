@@ -11,7 +11,7 @@ export default abstract class Vehicle{
     abstract gear():void;
 
     noOfGear():void{
-        console.log('My car has 5 gears')
+        console.log('My car has 5 gears for my car')
     }
 }
 
